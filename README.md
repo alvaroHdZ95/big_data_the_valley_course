@@ -3,7 +3,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ## Index
 - [Módulo 4 - Data Fundamentals with Python](#m%C3%B3dulo-4---data-fundamentals-with-python)
-  - [Día 1 - Lunes](https://github.com/alvaroHdZ95/big_data_the_valley_course/tree/main#d%C3%ADa-1---lunes) 
+  - [Día 1 - Lunes](#d%C3%ADa-1---lunes) 
 
 ## Módulo 4 - Data Fundamentals with Python
 
