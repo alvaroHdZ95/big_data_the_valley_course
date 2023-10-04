@@ -27,4 +27,5 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### Día 3 - Miércoles
 
-- 
+- [Álvaro Hernández - Prophet v2 - Predecir el valor de Bitcoin](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20Prophet%20v2%20-%20Predecir%20el%20valor%20de%20Bitcoin.ipynb)
+> Notebook con el código de Machine Learning utilizado para predecir el valor del Bitcoin hasta dentro de un año basándose en su valor desde 2016 hasta hoy
