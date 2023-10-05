@@ -42,5 +42,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ### Día 4 - Jueves
 
-- []()
-> 
+- [Álvaro Hernández -  SpaceX - 1 - Data Collection Api v2](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%204/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%201%20-%20Data%20Collection%20Api%20v2.ipynb)
+> Notebook para generar y manipular dataframes con datos obtenidos consumiendo la API de Space X
+- [Álvaro Hernández -  SpaceX - 3 -EDA Using SQL](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%204/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%203%20-EDA%20Using%20SQL.ipynb)
+> Notebook para conectarse a una base de datos SQL y ejecutar sentencias SQL desde Python con la librería SQLAlchemy 
