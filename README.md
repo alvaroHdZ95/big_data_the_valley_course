@@ -6,13 +6,12 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
     <h2>Índice</h2>
   </summary>
   
-  - [Módulo 4 - Data Fundamentals with Python](#m%C3%B3dulo-4---data-fundamentals-with-python)
-    - [Día 1 - Lunes](#d%C3%ADa-1---lunes)
+- [Módulo 4 - Data Fundamentals with Python](#m%C3%B3dulo-4---data-fundamentals-with-python)
+- [Día 1 - Lunes](#d%C3%ADa-1---lunes)
     - [Día 2 - Martes](#d%C3%ADa-2---martes)
     - [Día 3 - Miércoles](#d%C3%ADa-3---mi%C3%A9rcoles)
     - [Día 4 - Jueves](#d%C3%ADa-4---jueves)
 </details>
-
 
 ## Módulo 4 - Data Fundamentals with Python
 
@@ -37,7 +36,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 - [Álvaro Hernández -  SpaceX - 4 - EDA with Data Visualization](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%204%20-%20EDA%20with%20Data%20Visualization.ipynb)
 > Notebook con código para practicar la visualización de datos de SpaceX mediante las librerías de Matplotlib y Seaborn
 - [Álvaro Hernández - M4 - 09 - Folium](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2009%20-%20Folium.ipynb)
-> Notebook con código para practicar la visualización de datos con mapas mediante las librería Folium
+> Notebook con código para practicar la visualización de datos con mapas mediante la librería Folium
 - [Álvaro Hernández - Prophet v2 - Predecir el valor de Bitcoin](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20Prophet%20v2%20-%20Predecir%20el%20valor%20de%20Bitcoin.ipynb)
 > Notebook con el código de Machine Learning utilizado para predecir el valor del Bitcoin hasta dentro de un año basándose en su valor desde 2016 hasta hoy
 
