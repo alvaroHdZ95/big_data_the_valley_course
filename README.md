@@ -1,22 +1,19 @@
 # Big Data The Valley Course
 Repository with some codes from the Big Data Valley Course in Granada (2023)
 
-<details>
-  <summary>
-    <h2>Índice</h2>
-  </summary>
-  
+## Índice
+ 
 - [Módulo 4 - Data Fundamentals with Python](#module-4---data-fundamentals-with-python)
-  - [Day 1 - Monday](#day-1---monday)
-  - [Day 2 - Tuesday](#day-w---tuesday)
+  - [Day 1 - Monday](https://github.com/alvaroHdZ95/big_data_the_valley_course/edit/main/README.md#day-1---monday)
+  - [Day 2 - Tuesday](#day-2---tuesday)
   - [Day 3 - Wednesday](#day-3---wednesday)
   - [Day 4 - Thursday](#day-4---thursday)
-  - [Day 5 - Friday](#day-5---friday)
-</details>
+  - [Day 5 - Friday](#m4---day-5---friday)
+
 
 ## Module 4 - Data Fundamentals with Python
 
-### Day 1 - Monday
+### M4 - Day 1 - Monday
 
 - [Álvaro Hernández - M4 - 01 - Python Notebook](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%201/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2001%20-%20Python%20Notebook.ipynb)
 > Notebook con nociones básicas de Python (primera parte)
@@ -48,10 +45,19 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 - [Álvaro Hernández -  SpaceX - 3 -EDA Using SQL](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%204/%C3%81lvaro%20Hern%C3%A1ndez%20-%20%20SpaceX%20-%203%20-EDA%20Using%20SQL.ipynb)
 > Notebook para conectarse a una base de datos SQL y ejecutar sentencias SQL desde Python con la librería SQLAlchemy
 
-### Day 5 - Friday
+### M4 - Day 5 - Friday
 
 - [Álvaro Hernández - Ejercicios Repaso Python](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20Ejercicios%20Repaso%20Python.ipynb)
 > Notebook con ejercicios de repaso de los conceptos básicos de Python
 - *En proceso* [Álvaro Hernández - M4 - 07 - Numpy 1D](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2007%20-%20Numpy%201D.ipynb)
 > Notebook con ejercicios para iniciarse con la libería de Numpy
 - *En proceso* [Álvaro Hernández - SpaceX - 2 - EDA](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20SpaceX%20-%202%20-%20EDA.ipynb
+
+## Module 6 - Cloud & Big Data Architectures
+
+### Day 1 - Monday
+
+- [Álvaro Hernández - M6 - 01 - Funciones](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%201/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2001%20-%20Funciones.ipynb)
+> Notebook para practicar las funciones en Python
+- [Álvaro Hernández - M6 - 02 - Clases](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%201/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2002%20-%20Clases.ipynb)
+> Notebook de introducción para practicar las clases en Python
