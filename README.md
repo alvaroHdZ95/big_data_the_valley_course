@@ -11,6 +11,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
   - [Day 5 - Friday](#m4---day-5---friday)
 - [Módulo 6 - Cloud & Big Data Architectures](#module-6---cloud--big-data-architectures)
   - [Day 1 - Monday](#m6---day-1---monday)
+  - [Day 2 - Tuesday](#m6---day-2---tuesday)
 
 
 ## Module 4 - Data Fundamentals with Python
@@ -63,3 +64,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 > Notebook para practicar las funciones en Python
 - [Álvaro Hernández - M6 - 02 - Clases](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%201/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2002%20-%20Clases.ipynb)
 > Notebook de introducción para practicar las clases en Python
+
+### M6 - Day 2 - Tuesday
+- [Álvaro - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%202/%C3%81lvaro%20-%20M5%20-%20SPACEX2%20-%205%20-%20Interactive%20Visual%20Analytics%20con%20Folium.ipynb)
+- [Álvaro Hernández - M6 - 03 - Programación Funcional](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%202/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2003%20-%20Programaci%C3%B3n%20Funcional.ipynb)
