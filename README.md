@@ -3,13 +3,13 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 
 ## Índice
  
-- [Módulo 4 - Data Fundamentals with Python](#module-4---data-fundamentals-with-python)
+- [Module 4 - Data Fundamentals with Python](#module-4---data-fundamentals-with-python)
   - [Day 1 - Monday](#m4---day-1---monday)
   - [Day 2 - Tuesday](#m4---day-2---tuesday)
   - [Day 3 - Wednesday](#m4---day-3---wednesday)
   - [Day 4 - Thursday](#m4---day-4---thursday)
   - [Day 5 - Friday](#m4---day-5---friday)
-- [Módulo 6 - Cloud & Big Data Architectures](#module-6---cloud--big-data-architectures)
+- [Module 6 - Cloud & Big Data Architectures](#module-6---cloud--big-data-architectures)
   - [Day 1 - Monday](#m6---day-1---monday)
   - [Day 2 - Tuesday](#m6---day-2---tuesday)
 
