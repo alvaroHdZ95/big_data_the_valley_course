@@ -55,7 +55,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 > Notebook con ejercicios de repaso de los conceptos básicos de Python
 - *En proceso* [Álvaro Hernández - M4 - 07 - Numpy 1D](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M4%20-%2007%20-%20Numpy%201D.ipynb)
 > Notebook con ejercicios para iniciarse con la libería de Numpy
-- *En proceso* [Álvaro Hernández - SpaceX - 2 - EDA](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20SpaceX%20-%202%20-%20EDA.ipynb
+- *En proceso* [Álvaro Hernández - SpaceX - 2 - EDA](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Dia%205/%C3%81lvaro%20Hern%C3%A1ndez%20-%20SpaceX%20-%202%20-%20EDA.ipynb)
 
 ## Module 6 - Cloud & Big Data Architectures
 
