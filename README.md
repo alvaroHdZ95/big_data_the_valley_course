@@ -12,6 +12,7 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 - [Module 6 - Cloud & Big Data Architectures](#module-6---cloud--big-data-architectures)
   - [Day 1 - Monday](#m6---day-1---monday)
   - [Day 2 - Tuesday](#m6---day-2---tuesday)
+  - [Day 3 - Wednesday](#m6---day-3---wednesday)
 
 
 ## Module 4 - Data Fundamentals with Python
@@ -66,5 +67,12 @@ Repository with some codes from the Big Data Valley Course in Granada (2023)
 > Notebook de introducción para practicar las clases en Python
 
 ### M6 - Day 2 - Tuesday
+
 - *En proceso* [Álvaro - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%202/%C3%81lvaro%20-%20M5%20-%20SPACEX2%20-%205%20-%20Interactive%20Visual%20Analytics%20con%20Folium.ipynb)
 - [Álvaro Hernández - M6 - 03 - Programación Funcional](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%202/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2003%20-%20Programaci%C3%B3n%20Funcional.ipynb)
+
+### M6 - Day 3 - Wednesday
+
+- [Álvaro Hernández - M6 - 05 - SparkSession Teoría](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2005%20-%20SparkSession%20Teor%C3%ADa.ipynb)
+- *En proceso* [Álvaro Hernández - M6 - 06 - Primer RDD Teoría](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2006%20-%20Primer%20RDD%20Teor%C3%ADa.ipynb)
+- *En proceso* [Álvaro Hernández - M6 - 07 - Transformaciones y Acciones sobre RDDs](https://github.com/alvaroHdZ95/big_data_the_valley_course/blob/main/Module%206/Day%203/%C3%81lvaro%20Hern%C3%A1ndez%20-%20M6%20-%2007%20-%20Transformaciones%20y%20Acciones%20sobre%20RDDs.ipynb)
